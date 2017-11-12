@@ -1,0 +1,16 @@
+Source: libreoffice-style-xenta
+Section: editors
+Priority: optional
+Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Build-Depends: debhelper (>= 9), 
+               zip
+Standards-Version: 3.9.7
+Homepage: https://github.com/xentaos/libreoffice-style-xenta
+Vcs-Browser: https://github.com/xentaos/libreoffice-style-xenta.git
+
+
+Package: libreoffice-style-xenta
+Architecture: all
+Description: Paket Icon Theme Gaya Xenta Untuk LibreOffice.
+ Paket Icon Theme Gaya Xenta Untuk Aplikasi LibreOffice
+ Pada Xenta OS semua Edisi.
