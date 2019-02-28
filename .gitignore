@@ -4,4 +4,5 @@ debian/*.log
 debian/*.substvars
 debian/files
 debian/libreoffice-style-xenta
+images_xenta.zip
 
