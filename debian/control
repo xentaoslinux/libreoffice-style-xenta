@@ -1,12 +1,12 @@
 Source: libreoffice-style-xenta
 Section: editors
 Priority: optional
-Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 Build-Depends: debhelper (>= 9), 
                zip
 Standards-Version: 3.9.7
-Homepage: https://github.com/xentaos/libreoffice-style-xenta
-Vcs-Browser: https://github.com/xentaos/libreoffice-style-xenta.git
+Homepage: https://github.com/xentaoslinux/libreoffice-style-xenta
+Vcs-Browser: https://github.com/xentaoslinux/libreoffice-style-xenta.git
 
 
 Package: libreoffice-style-xenta
